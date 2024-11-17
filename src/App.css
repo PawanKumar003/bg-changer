@@ -1,0 +1,27 @@
+.mainDiv {
+  width: 100%;
+  height: 100vh;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  background-color: #cccbcb;
+  border: 1px solid black;
+  border-radius: 50px;
+  position: absolute;
+  bottom: 40px;
+  height: 60px;
+  width: 80%;
+  padding: 0px 25px;
+}
+.button {
+  height: 40px;
+  width: 100px;
+  margin-right: 10px;
+  border-radius: 50px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+}
